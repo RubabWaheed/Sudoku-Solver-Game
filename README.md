@@ -1,5 +1,5 @@
 # Sudoku-Solver-Game
-```markdown
+
 # 🧩 Sudoku System
 
 > A dual-mode console-based Sudoku game in C++. Either enter your own puzzle and let the computer solve it, or pick a difficulty and solve it yourself — with hints, undo, and a timer.
